@@ -1,0 +1,111 @@
+.navbar-brand img{
+    width: 160px;
+
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.sec-bar{
+    padding-right: 60px;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(19, 16, 16);      
+}
+nav a:hover{
+    color: rgba(73, 42, 42, 0.719);   
+    font-size: small;
+}
+.li-cl{
+    list-style: none;
+    float: right;
+    padding: 25px;
+}
+.name-heighlight{
+    font-family:  fantasy;
+    font-size: 45px;
+    height: 40px;
+    color: rgb(202, 188, 62); 
+}
+.name-heighlight-1{
+    font-family:  fantasy;
+    font-size: 40px;
+    color: rgba(9, 17, 26, 0.801); 
+}
+.money{
+    color: rgb(226, 168, 9);
+    font-weight: bolder;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    margin-top: 3%;
+    padding-left: 1%;
+}
+.half-width img{
+    width: 100%;  
+
+}
+.cold{
+    width: 30%;   
+}
+
+p{
+    color: dimgray;
+    width:70%;
+}
+.buy{
+    background-color: yellowgreen;
+    color: rgb(245, 234, 234);
+}
+
+.img-card{
+    height: 80%;
+    width: 80%;
+}
+.card img{
+    height: 10%;
+    width: 10%;
+}
+.center{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.card-body h5{
+    font-family: fantasy;
+    font-size: 25px;
+    color: rgba(9, 17, 26, 0.801); 
+
+}
+.women-jacket{
+    font-family: fantasy;
+    font-size: 40px;
+    color: rgba(9, 17, 26, 0.801); 
+}
+.img-bg{
+    background-color: rgba(209, 214, 218, 0.966);
+    width: 20%;
+    height: 50%;
+}
+.display{
+    display: flex;
+    gap: 30px;
+}
+.last-img img{
+    width: 15%;
+    height: 15%;
+}
+.last-img h5{
+    color: rgba(9, 17, 26, 0.801); 
+    font-weight: bold;
+}
+.stay{
+    width: 80%;
+}
+
